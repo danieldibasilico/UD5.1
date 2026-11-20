@@ -26,6 +26,10 @@ public class Principal {
                 for(int i=0; i<retos.length;i++){
                 if (retos[i].isCompletado()) {
                     
+
+
+
+                    System.out.println("cambio");
                 }}
            
 
